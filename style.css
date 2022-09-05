@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+*{
+
+    margin: 0;
+
+}
+
+.logo{
+position: absolute;
+width:144.15px;
+height:159px ;
+left: 66px;
+top:0px ;
+z-index: 1;
+}
+   
+header{
+display: flex;
+align-items: center;
+height: 129px;
+ 
+}
+
+
+.img{
+position: absolute;
+width: 616px;
+height: 100vh;
+left: 0px;
+top: 0px;
+}
+
+.cabeçalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 40px;
+    padding-left: 39vw;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 0.025em;
+    text-align: left;
+
+}
+ .vetor1{
+
+height: 10px;
+width: 16.36px;
+left: 832px;
+top: 54px;
+border-radius: 0px;
+ }
+
+ .vetor2{
+    height: 10px;
+    width: 16.36px;
+    left: 832px;
+    top: 54px;
+    border-radius: 0px;
+
+ }
+ .vetor3{
+    height: 10px;
+    width: 16.36px;
+    left: 832px;
+    top: 54px;
+    border-radius: 0px;
+
+ }
+ footer{
+
+color:#FFFFFF;
+position: absolute;
+width: 44px;
+height: 48px;
+left: 58px;
+top: 850px;
+display: flex;
+flex-direction: row;
+align-items: center;
+gap: 30px;
+font-family: 'Gilda Display', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 28px;
+letter-spacing: 0.025em;
+
+ }
