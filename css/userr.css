@@ -1,0 +1,13 @@
+.user {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_user {
+    background-color: #222222;
+    border-radius: 50%;
+    border: solid 3px#222222;
+    margin-left: 1840px;
+    margin-top: 70px;
+}

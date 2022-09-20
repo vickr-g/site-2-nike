@@ -1,0 +1,64 @@
+.description {
+    font-family: 'Inter', sans-serif;
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-left: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.description__title {
+    position: absolute;
+    width: 257px;
+    height: 44px;
+    left: 1147px;
+    top: 200px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.34em;
+    color: #000000;
+}
+
+.description__subtitle {
+    position: absolute;
+    width: 751px;
+    height: 120px;
+    left: 1133px;
+    top: 190px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 116px;
+    letter-spacing: 0.34em;
+    color: #000000;
+}
+
+.description__text {
+    position: absolute;
+    width: 672px;
+    height: 211px;
+    left: 1147px;
+    top: 390px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 143.02%;
+    /* or 34px */
+    letter-spacing: 0.05em;
+    color: #585858;
+}
+
+.button {
+    position: absolute;
+    width: 382px;
+    height: 101px;
+    left: 1147px;
+    top: 670px;
+    background: #0B0B0B;
+    border-radius: 50px;
+}

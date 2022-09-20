@@ -1,0 +1,12 @@
+.nike {
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    height: 187px;
+    margin-left: 750px;
+    top: 750px;
+    font-weight: 600;
+    font-size: 280px;
+    letter-spacing: 0.025em;
+    opacity: 7%;
+    overflow: hidden;
+}

@@ -1,0 +1,40 @@
+.tenis {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circulo {
+    position: absolute;
+    width: 679px;
+    height: 679px;
+    left: 277px;
+    top: 150px;
+    background: linear-gradient(179.96deg, #9C0610 0.04%, #CF5C55 99.96%);
+    box-shadow: 73px 8px 38px -10px rgba(189, 63, 61, 0.42);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem {
+    position: absolute;
+    display: flex;
+    height: 740px;
+    margin-top: 800px;
+    margin-right: 730px;
+    z-index: 1;
+}
+
+.sombra-tenis {
+    position: absolute;
+    width: 400.69px;
+    height: 138.68px;
+    left: 260px;
+    top: 650px;
+    border-radius: 50%;
+    background: rgba(11, 11, 11, 0.55);
+    box-shadow: 10px -49px 48px 79px rgba(0, 0, 0, 0.49);
+    transform: rotate(27.74deg);
+}
